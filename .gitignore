@@ -25,9 +25,11 @@ dist-ssr
 
 .firebase
 dist/
-public/assets/
+public/
 *.cjs
 .firebaserc
 firebase.json
 vite.config.js
+.gitattributes
+
 
